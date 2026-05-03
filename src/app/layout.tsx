@@ -3,7 +3,7 @@ import Header from "@/components/Header";
 import Providers from "@/components/Providers";
 import { cn } from "@/lib/utils";
 import type { Metadata } from "next";
-import { Inter, JetBrains_Mono } from "next/font/google"; // Swapped to JetBrains Mono
+import { Inter, JetBrains_Mono } from "next/font/google"; 
 import "./globals.css";
 
 const inter = Inter({
