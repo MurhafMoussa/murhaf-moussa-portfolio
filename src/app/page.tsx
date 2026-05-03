@@ -4,7 +4,7 @@ import Projects from "@/components/Projects";
 import Socials from "@/components/Socials";
 import SwipeCards from "@/components/SwipeCards";
 import { Button } from "@/components/ui/Button";
-import { getPosts } from "@/lib/posts";
+// import { getPosts } from "@/lib/posts";
 import {
   ArrowRightIcon,
   FileDown
@@ -16,7 +16,7 @@ const blogDirectory = path.join(process.cwd(), "content");
 const LIMIT = 2; // max show 2
 
 export default async function Home() {
-  const posts = await getPosts(blogDirectory, LIMIT);
+  // const posts = await getPosts(blogDirectory, LIMIT);
 
   return (
     <article className="mt-8 flex flex-col gap-16 pb-16">

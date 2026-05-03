@@ -3,7 +3,7 @@
 A high-performance, modular portfolio built with Next.js, Tailwind CSS, and shadcn/ui. It demonstrates Clean Architecture principles and is optimized for speed, responsiveness, and technical storytelling.
 
 ## 🌐 Live Presence
-- Portfolio: [Your Vercel/Custom URL]
+- Portfolio: https://murhaf-moussa-portfolio.vercel.app/
 
 > Status: EU Blue Card Eligible | Supported by Imagine Foundation
 
@@ -12,7 +12,6 @@ A high-performance, modular portfolio built with Next.js, Tailwind CSS, and shad
 - **Modular Architecture**: Clean separation of concerns between UI components, server actions, and data schemas.
 - **Type-Safe Contact System**: Integrated with Resend and Zod for robust, validated communication.
 - **Responsive Engineering**: Fully fluid design optimized across mobile, tablet, and desktop.
-- **Technical Blog**: Markdown/MDX content system for sharing engineering insights.
 
 ## 🛠 Tech Stack
 - **Frontend**: Next.js (App Router)
