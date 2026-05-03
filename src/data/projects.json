@@ -1,0 +1,156 @@
+{
+  "projects": [
+    {
+      "name": "Typed_form_fields",
+      "description": "A production-ready Flutter package for type-safe form validation. Engineered with a clean API using BLoC and 100% test coverage (560+ tests).",
+      "image": "/pub-dev-logo.svg",
+      "tags": [
+        "Flutter",
+        "Dart",
+        "BLoC",
+        "TDD",
+        "Open Source"
+      ],
+      "links": [
+        {
+          "name": "Pub.dev",
+          "href": "https://pub.dev/packages/typed_form_fields",
+          "icon": "globe"
+        },
+        {
+          "name": "Source",
+          "href": "https://github.com/MurhafMoussa/typed_form_fields",
+          "icon": "github"
+        }
+      ]
+    },
+    {
+      "name": "TMKN Smart Education",
+      "description": "A large-scale educational platform with 40,000+ downloads. Engineered a quiz module, secure IAP system, and a teacher assistant feature.",
+      "image": "/tmkn.png",
+      "tags": [
+        "Flutter",
+        "Firebase",
+        "In-App Purchase",
+        "Notifications"
+      ],
+      "links": [
+        {
+          "name": "App Store",
+          "href": "https://apps.apple.com/us/app/tmkn-%D8%AA%D9%85%D9%83%D9%86/id1590997791",
+          "icon": "globe"
+        },
+        {
+          "name": "Play Store",
+          "href": "https://play.google.com/store/apps/details?id=com.vroad.gsikw",
+          "icon": "globe"
+        }
+      ]
+    },
+    {
+      "name": "Ososs SaaS E-commerce",
+      "description": "Rebuilt a SaaS E-commerce platform and POS system. Optimized performance by 50% and automated deployment for 6 custom store versions.",
+      "image": "/ososs.jpg",
+      "tags": [
+        "Flutter",
+        "Monorepo",
+        "Fastlane",
+        "SaaS"
+      ],
+      "links": [
+        {
+          "name": "App Store",
+          "href": "https://apps.apple.com/us/developer/ososs-llc/id1450086599?see-all=i-phonei-pad-apps",
+          "icon": "globe"
+        },
+        {
+          "name": "Play Store",
+          "href": "https://play.google.com/store/apps/dev?id=5360879777823947476",
+          "icon": "globe"
+        }
+      ]
+    },
+    {
+      "name": "Elite-Auctions",
+      "description": "A high-performance auction app featuring a real-time live-bidding engine and multi-gateway payment integration.",
+      "image": "/elite-auctions.webp",
+      "tags": [
+        "Flutter",
+        "BLoC",
+        "Pusher",
+        "WebSockets",
+        "Stripe"
+      ],
+      "links": [
+        {
+          "name": "App Store",
+          "href": "https://apps.apple.com/vn/app/mazad-alnokhba/id1597116939",
+          "icon": "globe"
+        }
+      ]
+    },
+    {
+      "name": "Crane & Cargo",
+      "description": "Led a comprehensive performance overhaul of this heavy machinery and logistics platform, reducing load times by 60%. Engineered a real-time, Firebase-based cost negotiation system and integrated multi-gateway payments (Q-Pay, HyperPay).",
+      "image": "/crane-cargo.webp",
+      "tags": [
+        "Flutter",
+        "Firebase",
+        "Performance Optimization",
+        "Q-Pay",
+        "HyperPay",
+        "Real-time Systems"
+      ],
+      "links": [
+        {
+          "name": "Play Store",
+          "href": "https://play.google.com/store/apps/details?id=cargocrane.com",
+          "icon": "globe"
+        }
+      ]
+    },
+    {
+      "name": "Rayan Customer & Driver",
+      "description": "Architected and led the from-scratch rebuild of a dual-app taxi booking ecosystem. Developed innovative ride-hailing technology that prioritized safety standards and eliminated 90% of performance jank through advanced caching and memory monitoring.",
+      "image": "/rayan.webp",
+      "tags": [
+        "Flutter",
+        "Clean Architecture",
+        "Real-time Tracking",
+        "Performance Optimization",
+        "SOLID",
+        "BLoC"
+      ],
+      "links": [
+        {
+          "name": "Customer App",
+          "href": "https://apps.apple.com/us/app/rayan-customer/id1621499233",
+          "icon": "globe"
+        }
+      ]
+    },
+    {
+"name": "Fixily",
+"description": "A bidirectional marketplace for home maintenance. Engineered a real-time bidding system and an in-app worker wallet, leveraging a custom modular core for scalable architecture.",  "image": "/fixily.webp",
+  "tags": [
+    "Flutter",
+    "Multi-Role Architecture",
+    "Modular Package Design",
+    "Real-time Bidding",
+    "Media Processing"
+  ],
+      "links": [
+        {
+          "name": "App Store",
+          "href": "https://apps.apple.com/us/app/fixily-%D8%B5%D9%84%D8%AD%D9%84%D9%8A/id6753228588",
+          "icon": "globe"
+        },
+        {
+          "name": "Play Store",
+          "href": "https://play.google.com/store/apps/details?id=me.raytech.fixily",
+          "icon": "globe"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "education": [
+    {
+      "name": "Damascus University",
+      "href": "https://damascusuniversity.edu.sy",
+      "title": "Bachelor of Software Engineering",
+      "logo": "/damascus_university.jpg",
+      "start": "2017",
+      "end": "2025",
+      "description": [
+        "EU Blue Card-eligible university program.",
+        "Specialized in Software Architecture and High-Performance Systems.",
+        "Active member of the engineering community, providing mentorship in cross-platform development."
+      ]
+    }
+  ]
+} 

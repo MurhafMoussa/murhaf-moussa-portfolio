@@ -1,0 +1,55 @@
+{
+  "career": [
+    {
+      "name": "Mazimigo",
+      "href": "https://www.mazimigo.com",
+      "title": "Senior Software Engineer",
+      "logo": "/mazimigo.webp",
+      "start": "Mar 2025",
+      "description": [
+        "Engineered an automated data pipeline using Laravel and GCP, reducing manual document processing work by 90%",
+        "Designed a robust monorepo package with centralized services for 5 projects, slashing code duplication by 75% and accelerating development by 80%",
+        "Maintained high coding standards through rigorous code reviews and authored technical documentation that reduced new-hire ramp-up time by 30%"
+      ]
+    },
+    {
+      "name": "VRoad",
+      "href": "https://www.vroad-me.com/",
+      "title": "Senior Mobile Developer (Contract)",
+      "logo": "/vroad.png",
+      "start": "Dec 2024", 
+      "end": "Feb 2025",
+      "description": [
+        "Contributed to the TMKN smart educational platform, achieving over 40,000 downloads across major app stores",
+        "Engineered key modules including a flexible quiz system, secure in-app purchases, and a platform-wide notification system",
+        "Refactored legacy code and executed comprehensive troubleshooting, enhancing application performance and stability by 40%"
+      ]
+    },
+    {
+      "name": "Ososs LLC",
+      "href": "https://www.ososs.com",
+      "title": "Flutter Engineer",
+      "logo": "/ososs.jpg",
+      "start": "Mar 2023",
+      "end": "Nov 2024",
+      "description": [
+        "Rebuilt a SaaS E-commerce platform using reusable monorepo components and custom automation scripts for feature generation",
+        "Reduced Ososs POS loading times by 50%, significantly enhancing responsiveness during high-demand scenarios",
+        "Automated deployment pipelines for 6 distinct store customizations to iOS and Android using Fastlane"
+      ]
+    },
+    {
+      "name": "SDN-ONE",
+      "href": "https://www.linkedin.com/company/sdn-group/",
+      "title": "Flutter Developer",
+      "logo": "/sdn.png",
+      "start": "Oct 2021",
+      "end": "Dec 2022",
+      "description": [
+        "Led the from-scratch rebuild of 3 mission-critical apps (Elite-Auctions, Rayan Customer/Driver) to enhance maintainability",
+        "Implemented real-time features including live-bidding auctions (Pusher) and multi-gateway payment systems",
+        "Minimized app jank and FPS drops by 90% through advanced performance practices, pagination, and memory monitoring"
+      ]
+    }
+  ]
+}

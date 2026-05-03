@@ -1,0 +1,107 @@
+{
+  "skillGroups": [
+    {
+      "title": "Mobile Engineering",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Material UI",
+        "Go-Router",
+        "Dio",
+        "Bloc",
+        "Provider",
+        "Riverpod",
+        "GetX",
+        "State Management",
+        "Fastlane",
+        "CodeMagic",
+        "Test Flight",
+        "Pusher",
+        "socket.io"
+      ]
+    },
+    {
+      "title": "Backend & Data",
+      "skills": [
+        "PHP",
+        "Laravel",
+        "PostgreSQL",
+        "MongoDB",
+        "RESTful APIs",
+        "GraphQL",
+        "Node.js",
+        "Nest.js",
+        "Spring Boot",
+        "Firebase",
+        "GCP"
+      ]
+    },
+    {
+      "title": "Architecture & Strategy",
+      "skills": [
+        "Dependency Injection",
+        "Caching",
+        "Offline-First Architecture",
+        "Clean Architecture",
+        "SOLID",
+        "Design Patterns",
+        "Modular App Architecture",
+        "Monorepo",
+        "Error Handling",
+        "Localization",
+        "Theming",
+        "Mobile Security"
+      ]
+    },
+    {
+      "title": "Testing & Quality",
+      "skills": [
+        "Unit Testing",
+        "Integration Testing",
+        "Widget Testing",
+        "TDD",
+        "Debugging",
+        "Automation",
+        "Performance Monitoring",
+        "Firebase Crashlytics",
+        "Firebase Analytics",
+        "A/B Testing",
+        "Sentry"
+      ]
+    },
+    {
+      "title": "Tools & Workflow",
+      "skills": [
+        "Git",
+        "GitHub",
+        "GitLab",
+        "GitLab CI",
+        "VS Code",
+        "Figma",
+        "Jira",
+        "Trello",
+        "Notion",
+        "Slack",
+        "Agile (Scrum)",
+        "Pair Programming",
+        "ChatGPT",
+        "Curser AI"
+      ]
+    },
+    {
+      "title": "Cross-platform Delivery", 
+      "skills": [
+        "Multi-gateway Payments",
+        "Real-time Bidding",
+        "iOS",
+        "Android",
+        "Web",
+        "Desktop",
+        "SaaS",
+        "Real-time Systems",
+        "In-app Purchases",
+        "Internationalization (i18n)"
+      ]
+    }
+  ]
+}
