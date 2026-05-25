@@ -26,12 +26,12 @@ export function ProjectCard({ project }: Props) {
           <Link href={href || image}>
             <Image
               src={image}
-              alt={name}
+              alt={name} 
               
               width={300}
               height={300}
 
-              className="h-40 w-full object-fit object-top"
+              className="h-40 w-full object-fit object-top rounded-lg"
             />
           </Link>
         )}

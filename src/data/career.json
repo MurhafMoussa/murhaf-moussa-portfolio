@@ -12,26 +12,14 @@
         "Maintained high coding standards through rigorous code reviews and authored technical documentation that reduced new-hire ramp-up time by 30%"
       ]
     },
-    {
-      "name": "VRoad",
-      "href": "https://www.vroad-me.com/",
-      "title": "Senior Mobile Developer (Contract)",
-      "logo": "/vroad.png",
-      "start": "Dec 2024", 
-      "end": "Feb 2025",
-      "description": [
-        "Contributed to the TMKN smart educational platform, achieving over 40,000 downloads across major app stores",
-        "Engineered key modules including a flexible quiz system, secure in-app purchases, and a platform-wide notification system",
-        "Refactored legacy code and executed comprehensive troubleshooting, enhancing application performance and stability by 40%"
-      ]
-    },
+
     {
       "name": "Ososs LLC",
       "href": "https://www.ososs.com",
       "title": "Flutter Engineer",
-      "logo": "/ososs.jpg",
+      "logo": "/ososs.png",
       "start": "Mar 2023",
-      "end": "Nov 2024",
+      "end": "Feb 2025",
       "description": [
         "Rebuilt a SaaS E-commerce platform using reusable monorepo components and custom automation scripts for feature generation",
         "Reduced Ososs POS loading times by 50%, significantly enhancing responsiveness during high-demand scenarios",

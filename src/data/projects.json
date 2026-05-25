@@ -50,7 +50,7 @@
     {
       "name": "Ososs SaaS E-commerce",
       "description": "Rebuilt a SaaS E-commerce platform and POS system. Optimized performance by 50% and automated deployment for 6 custom store versions.",
-      "image": "/ososs.jpg",
+      "image": "/ososs.png",
       "tags": [
         "Flutter",
         "Monorepo",
